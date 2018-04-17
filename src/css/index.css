@@ -3,6 +3,10 @@ body{
 	padding: 0;
 }
 
+element.style {
+  margin-left: 15px;
+}
+
 .inline-slect-box {
   padding: 0;
 	border: none;
