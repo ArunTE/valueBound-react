@@ -3,8 +3,8 @@ body{
 	padding: 0;
 }
 
-element.style {
-  margin-left: 15px;
+.wrapper {
+  margin-left: 20px;
 }
 
 .inline-slect-box {
